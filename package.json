@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ApolloFops/companion-module-extron-ipl250.git"
+		"url": "git+https://github.com/bitfocus/companion-module-extron-ipl250.git"
 	},
 	"engines": {
 		"node": "^22.20",
